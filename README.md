@@ -3,18 +3,20 @@
 App to fetch student details which are stored in mongodb.
 
 Features:
-1. Pagination - You can send the page number and page size on backend
-2. Filters - You can add various filters (student names, min age, max age, min marks, max marks, etc) to fetch details of specific required students.
+1. **Pagination -** You can send the page number and page size on backend
+2. **Filters -** You can add various filters (student names, min age, max age, min marks, max marks, etc) to fetch details of specific required students.
 
 # Tech
 
-Backend: NodeJS + ExpressJS
-Frontend: ReactJS (project created using Vite)
-Database: MongoDB
+**Backend:** NodeJS + ExpressJS  
+
+**Frontend:** ReactJS (project created using Vite)  
+
+**Database:** MongoDB
 
 # Prerequisites
 
-1. This app assumes that you have installed MongoDB and it is running on port 27017 on your system. If not, then before running this app, please install mongodb and run it on above mentioned port.
+1. This app assumes that you have installed MongoDB and it is running on port `27017` on your system. If not, then before running this app, please install mongodb and run it on above mentioned port.
 
 2. The mongodb should have dummy data of students in the following format:
 
@@ -45,22 +47,22 @@ To add dummy data in mongodb, I have provided a function in the end of the file 
 Here are some screenshots of the working app
 
 ### Screenshot 1
-<img src="./screenshots/sc1.png" style="width:100%">
+<img src="./screenshots/sc1.png" style="width:80%">
 
 <br/>
 
 ### Screenshot 2
-<img src="./screenshots/sc2.png" style="width:100%">
+<img src="./screenshots/sc2.png" style="width:80%">
 
 <br/>
 
 ### Screenshot 3
-<img src="./screenshots/sc3.png" style="width:100%">
+<img src="./screenshots/sc3.png" style="width:80%">
 
 <br/>
 
 ### Screenshot 4
-<img src="./screenshots/sc4.png" style="width:100%">
+<img src="./screenshots/sc4.png" style="width:80%">
 
 
 
