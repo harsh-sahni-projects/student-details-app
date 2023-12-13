@@ -40,7 +40,7 @@ To add dummy data in mongodb, I have provided a function in the end of the file 
 3. Run `cd server` and then `npm install` to install dependencies of backend.
 4. Run `cd ..` to come back to home directory.
 5. Run `npm run dev` - this will run both frontend server (on port `5173`) and backend server (on port `3000`)
-6. Open `localhost:5171` on your browser.
+6. Open `localhost:5173` on your browser.
 
 # Screenshots
 
