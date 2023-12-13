@@ -1,0 +1,19 @@
+body {
+    padding-left: 2rem;
+}
+input {
+    padding: 0.25rem;
+    margin-top: 0.25rem;
+    min-width: 200px;
+}
+
+a {
+    margin-inline: 0.25rem 1.5rem;
+}
+
+table {
+    text-align: left;
+}
+th {
+    min-width: 120px;
+}
